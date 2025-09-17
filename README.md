@@ -24,4 +24,3 @@ HTTP Client: Fetch API / Axios
 │   ├── hooks           # Custom hooks for data fetching
 │   ├── utils           # Helper functions (sorting, formatting)
 │   └── styles          # Tailwind config & global styles
-
